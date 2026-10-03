@@ -1,0 +1,16 @@
+{"tipo_e": "inv", "op":"put", "clave":"r1", "valor":"C1_1", "n":1, "id":"C1", "t":1}
+{"tipo_e": "inv", "op":"get", "clave":"r1", "valor":null, "n":1, "id":"C5", "t":2}
+{"tipo_e": "inv", "op":"get", "clave":"r1", "valor":null, "n":1, "id":"C3", "t":3}
+{"tipo_e": "res", "op":"put", "clave":"r1", "valor":"C1_1", "n":1, "id":"C1", "t":4}
+{"tipo_e": "res", "op":"get", "clave":"r1", "valor":"C1_1", "n":1, "id":"C5", "t":5}
+{"tipo_e": "inv", "op":"put", "clave":"r1", "valor":"C1_2", "n":2, "id":"C1", "t":6}
+{"tipo_e": "inv", "op":"get", "clave":"r1", "valor":null, "n":1, "id":"C4", "t":7}
+{"tipo_e": "inv", "op":"get", "clave":"r1", "valor":null, "n":1, "id":"C2", "t":8}
+{"tipo_e": "res", "op":"put", "clave":"r1", "valor":"C1_2", "n":2, "id":"C1", "t":9}
+{"tipo_e": "res", "op":"get", "clave":"r1", "valor":"C1_2", "n":1, "id":"C2", "t":10}
+{"tipo_e": "res", "op":"get", "clave":"r1", "valor":"C1_2", "n":1, "id":"C3", "t":11}
+{"tipo_e": "inv", "op":"get", "clave":"r1", "valor":null, "n":1, "id":"C6", "t":12}
+{"tipo_e": "res", "op":"get", "clave":"r1", "valor":"C1_2", "n":1, "id":"C4", "t":13}
+{"tipo_e": "inv", "op":"get", "clave":"r1", "valor":null, "n":2, "id":"C2", "t":14}
+{"tipo_e": "res", "op":"get", "clave":"r1", "valor":"C1_2", "n":1, "id":"C6", "t":15}
+{"tipo_e": "res", "op":"get", "clave":"r1", "valor":"C1_2", "n":2, "id":"C2", "t":16}
